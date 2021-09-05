@@ -1,0 +1,3 @@
+#!/bin/sh
+
+java -jar /code/build/libs/websitecrapper-1.0-SNAPSHOT.jar $*
